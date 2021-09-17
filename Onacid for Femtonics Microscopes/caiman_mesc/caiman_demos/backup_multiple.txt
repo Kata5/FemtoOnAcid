@@ -1,0 +1,19 @@
+0.4
+(6, 6)
+2
+1
+2
+True
+False
+60
+0.5
+1.0
+10
+1
+0.8
+100
+49
+100
+True
+final_test
+C:/Users/admin/Documents/20210126_660_multilayermesc.mesc
