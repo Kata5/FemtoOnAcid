@@ -6,10 +6,10 @@ Femtonics Real-time Analysis Package enables you online analyze your data measur
 
 Fast and scalable algorithms are implemented for
 
-    online motion correction
-    automatic source extraction, cell detection
-    calculationg and stroring cell centroids in a txt file and on the clipboard
-    providing and visualizing Ca traces real-time
+    *online motion correction
+    *automatic source extraction, cell detection
+    *calculationg and stroring cell centroids in a txt file and on the clipboard
+    *providing and visualizing Ca traces real-time
 
 With the package the following measurements can be processed:
 
