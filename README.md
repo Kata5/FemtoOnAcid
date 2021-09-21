@@ -21,8 +21,11 @@ The package is based on the popular CaImAn package of Flatiron Institute, a pape
 
 The algorithm can be either finetuned with a GUI containing parameters for the data, for algorithm, etc or without GUI with default parameters.
 
+<img src="https://github.com/Kata5/FemtoOnAcid/blob/main/images/image02.png" width="500" align="right">
 
 Ca traces are visualized real time and using the check boxes next to the cells a subpopulation of cells can be selected so as to forward them to further measurements (i.e. chessboard scanning)
+
+<img src="https://github.com/Kata5/FemtoOnAcid/blob/main/images/image01.png" width="500" align="right">
 
 Requirements
 
