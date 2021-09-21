@@ -1,5 +1,6 @@
 # FemtoOnAcid
-Online Analysis of Calcium Imaging Data in Real Time for Femtonics Microscopes
+Online Analysis of Calcium Imaging Data in Real Time for Femtonics Microscopes.
+This project has been partially funded through the Hungarian Brain Research Program.
 
 
 Femtonics Real-time Analysis Package enables you online analyze your data measured with Femtonics AO microscope via FemtoAPI <<link>> while your measurement is still running. You can exploit the benefits of this great advantage when online information from network dynamic is essential (i.e.: when performing photoStimulation)
