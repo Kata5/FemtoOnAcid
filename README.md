@@ -55,5 +55,5 @@ A paper explaining most of the implementation details and benchmarking can be fo
 ```
 
 Main developers:
-Katalin Ócsai
-Kis Gergely
+- Katalin Ócsai
+- Kis Gergely
