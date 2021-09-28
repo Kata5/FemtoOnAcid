@@ -3,7 +3,7 @@ Online Analysis of Calcium Imaging Data in Real Time for Femtonics Microscopes.
 This project has been partially funded through the Hungarian Brain Research Program.
 
 
-Femtonics Real-time Analysis Package enables you online analyze your data measured with Femtonics AO microscope via FemtoAPI <<link>> while your measurement is still running. You can exploit the benefits of this great advantage when online information from network dynamic is essential (i.e.: when performing photoStimulation)
+Femtonics Real-time Analysis Package enables you online analyze your data measured with Femtonics AO microscope via [FemtoAPI](https://github.com/Femtonics/FemtoAPI) while your measurement is still running. You can exploit the benefits of this great advantage when online information from network dynamic is essential (i.e.: when performing photoStimulation)
 
 Fast and scalable algorithms are implemented for
 
@@ -35,9 +35,9 @@ Femtonics Real-time Analysis Package is supported
 - on Windows on Intel CPUs,
 - CaImAn presently targets Python 3.7, parts of CaImAn are written in C++, but apart possibly during install, this is not visible to the user
 Conda
-- [FemtoAPI] (https://github.com/Femtonics/FemtoAPI) from  [Femtonics Ltd] (https://femtonics.eu) is required for online analysis. At least 16G RAM is strongly recommended, and depending on datasets, 32G or more may be helpful.
+- [FemtoAPI](https://github.com/Femtonics/FemtoAPI) from  [Femtonics Ltd](https://femtonics.eu) is required for online analysis. At least 16G RAM is strongly recommended, and depending on datasets, 32G or more may be helpful.
 
-This package uses Caiman [package](https://github.com/flatironinstitute/CaImAn) from [Flatiron Institute](https://github.com/flatironinstitute). 
+This package uses [Caiman package](https://github.com/flatironinstitute/CaImAn) from [Flatiron Institute](https://github.com/flatironinstitute). 
 
 ### Main paper
 A paper explaining most of the implementation details and benchmarking can be found [here](https://elifesciences.org/articles/38173).
