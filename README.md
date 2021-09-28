@@ -53,3 +53,7 @@ A paper explaining most of the implementation details and benchmarking can be fo
   publisher={eLife Sciences Publications Limited}
 }
 ```
+
+Main developers:
+Katalin Ócsai
+Kis Gergely
