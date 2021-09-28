@@ -35,4 +35,21 @@ Femtonics Real-time Analysis Package is supported
 - on Windows on Intel CPUs,
 - CaImAn presently targets Python 3.7, parts of CaImAn are written in C++, but apart possibly during install, this is not visible to the user
 Conda
-- FemtoAPI <<link>> from Femtonics Ltd is required for online analysis. At least 16G RAM is strongly recommended, and depending on datasets, 32G or more may be helpful.
+- [FemtoAPI] (https://github.com/Femtonics/FemtoAPI) from  [Femtonics Ltd] (https://femtonics.eu) is required for online analysis. At least 16G RAM is strongly recommended, and depending on datasets, 32G or more may be helpful.
+
+This package uses Caiman [package](https://github.com/flatironinstitute/CaImAn) from [Flatiron Institute](https://github.com/flatironinstitute). 
+
+### Main paper
+A paper explaining most of the implementation details and benchmarking can be found [here](https://elifesciences.org/articles/38173).
+
+```
+@article{giovannucci2019caiman,
+  title={CaImAn: An open source tool for scalable Calcium Imaging data Analysis},
+  author={Giovannucci, Andrea and Friedrich, Johannes and Gunn, Pat and Kalfon, Jeremie and Brown, Brandon L and Koay, Sue Ann and Taxidis, Jiannis and Najafi, Farzaneh and Gauthier, Jeffrey L and Zhou, Pengcheng and Khakh, Baljit S and Tank, David W and Chklovskii, Dmitri B and Pnevmatikakis, Eftychios A},
+  journal={eLife},
+  volume={8},
+  pages={e38173},
+  year={2019},
+  publisher={eLife Sciences Publications Limited}
+}
+```
